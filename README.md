@@ -2,6 +2,7 @@
 This repo will focus on implementing and benchmarking matrix multiplication usign CuPy vs NumPy, with reports on performance gains.
 
 After I complete this, I have plans for the following projects:
+
 GPU-accelerated matrix multiplication: Implement and benchmark matrix multiply using CuPy vs NumPy, with a writeup on performance gains.
 
 Extend NumPy with a custom ufunc: Create a custom universal function (ufunc) in NumPy for a special operation (e.g., a numerical method or transformation).
